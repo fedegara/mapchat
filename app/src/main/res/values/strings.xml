@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MapChat</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_example">prueba@mapchat.com</string>
+    <string name="password_example">*******</string>
+
+
+    <string name="name">Name</string>
+
+    <string name="fillform">Please fill al the form ;)</string>
+
+
+    <string name="waiting">Please wait</string>
+
+    <string name="message">Message</string>
+    <string name="new_message">New message</string>
+    <string name="send">Send</string>
+
+    <string name="viewMap">View map</string>
+
+    <string name="successful_register">Successful register</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

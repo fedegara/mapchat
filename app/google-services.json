@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "503449676936",
+    "firebase_url": "https://mapchat-ab822.firebaseio.com",
+    "project_id": "mapchat-ab822",
+    "storage_bucket": "mapchat-ab822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503449676936:android:58002015c0138ab7",
+        "android_client_info": {
+          "package_name": "com.example.federicogarateguy.mapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503449676936-2016jbo0i322ipuaqlnkqjhpr5a9ibn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.federicogarateguy.mapchat",
+            "certificate_hash": "0FB1885B1E3F42F7F3F36C28AB85B91309F5F3FB"
+          }
+        },
+        {
+          "client_id": "503449676936-3nn7671a1c57usebr7583719uddb2b9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALc175-JBxzbVEGdeWGjSGc1GFoSB188A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503449676936-3nn7671a1c57usebr7583719uddb2b9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
